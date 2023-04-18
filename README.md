@@ -39,5 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-##USE THIS LINK TO GET THE LOGROCKET DOCS
+## USE THIS LINK TO GET THE LOGROCKET DOCS
 https://blog.logrocket.com/add-pagination-next-js-app/
